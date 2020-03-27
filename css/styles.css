@@ -1,0 +1,32 @@
+body {
+  background-color: azure;
+}
+
+hr {
+  border-width: 5px;
+  border-color: #00bdaa;
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+}
+
+h3 {
+  color: #ff1e56;
+}
+
+h1 {
+  color: #7f78d2;
+}
+
+img {
+  height: 170px;
+}
+
+#Pritika:hover{
+  color:navy;
+}
+
+.circular
+{
+  border-radius: 100%
+}
